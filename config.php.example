@@ -1,0 +1,6 @@
+<!php
+
+define('EVENTO_HOST',  'YOUR EVENTO Service Host');
+define('ACCOUNT_TYPE', 'shibboleth');
+
+!>
