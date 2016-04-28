@@ -22,7 +22,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'local_evento2mdl';
+$plugin->component = 'local_evento4mdl';
 $plugin->version  = 2016022501;
 $plugin->requires = 2010112400;  // Requires this Moodle version - at least 2.0
 $plugin->cron     = 0;
