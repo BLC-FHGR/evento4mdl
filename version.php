@@ -15,14 +15,14 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package   local_rsd
- * @copyright 2016, Goran Josic <goran.josic@usi.ch>
+ * @package   local
+ * @copyright 2016, HTW Chur
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'evento2mdl';
+$plugin->component = 'tool_evento2mdl';
 $plugin->version  = 2016022501;
 $plugin->requires = 2010112400;  // Requires this Moodle version - at least 2.0
 $plugin->cron     = 0;
